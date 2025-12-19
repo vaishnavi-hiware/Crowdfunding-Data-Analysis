@@ -23,7 +23,14 @@ Public crowdfunding dataset containing campaign category, goal amount, pledged a
 - Certain countries had higher average pledged amounts
 
 ## Dashboard
-(Screenshots will be added)
+### Excel Dashboard
+![Excel Dashboard](Crowdfunding_Excel_Dashboard.jpg)
+
+### Power BI Dashboard
+![Power BI Dashboard](Crowdfunding_Powerbi_Dashboard.jpg)
+
+### Tableau Dashboard
+![Tableau Dashboard](Crowdfunding_Tableau_Dashboard.jpg)
 
 ## Conclusion
 This project demonstrates how data analysis can support better business decisions.# Crowdfunding-Data-Analysis
