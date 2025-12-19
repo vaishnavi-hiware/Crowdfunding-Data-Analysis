@@ -27,7 +27,7 @@ Public crowdfunding dataset containing campaign category, goal amount, pledged a
 ![Excel Dashboard](Crowdfunding_Excel_Dashboard.jpg)
 
 ### Power BI Dashboard
-![Power BI Dashboard](Crowdfunding_Powerbi_Dashboard.jpg)
+![Power BI Dashboard](Crowdfunding_PowerBi_Dashboard.jpg)
 
 ### Tableau Dashboard
 ![Tableau Dashboard](Crowdfunding_Tableau_Dashboard.jpg)
